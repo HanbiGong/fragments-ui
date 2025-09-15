@@ -1,0 +1,26 @@
+{
+  "name": "fragments-ui",
+  "version": "1.0.0",
+  "description": "fragments-ui",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanbiGong/fragments-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanbiGong/fragments-ui/issues"
+  },
+  "homepage": "https://github.com/HanbiGong/fragments-ui#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "oidc-client-ts": "^3.3.0"
+  }
+}
